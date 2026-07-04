@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+playwright-report/
+test-results/
+*.webm
+*.mp4
+*.zip
+*.log
